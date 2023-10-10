@@ -1,2 +1,3 @@
-# Graduation_ratio_ML
-This is a graduation characeristics based in the dataset "Graduation rate" extrac from kaggle
+# Ratio_de_graduaciones
+Proyecto extrac from kaggle
+Sergio Santivanez
